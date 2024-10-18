@@ -5,7 +5,7 @@ const addToLocalStorage = () =>{
     const value = valueInput.value;
     console.log(id, value);
 
-    if(id && value){
+    if(id && value){ 
         localStorage.setItem(id, value);
     }
     idInput.value = '';
