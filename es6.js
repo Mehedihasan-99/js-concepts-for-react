@@ -1,14 +1,14 @@
 const numbers = [2, 4, 7, 12, 16];
 
 const student = {
-    name : "mehedi";
-    age : 25;
-    subject : [accounting, management, marketing ];
+    name : "mehedi",
+    age : 25,
+    subject : [accounting, management, marketing ],
     address : {
-        village: 'goshpara';
-        post : 'sherpur';
-        upozila : 'sherpur';
-        district : 'bogura';
+        village: 'goshpara',
+        post : 'sherpur',
+        upozila : 'sherpur',
+        district : 'bogura',
     }
 }
 

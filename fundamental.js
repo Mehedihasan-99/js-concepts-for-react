@@ -42,14 +42,14 @@ console.log(result);
 // 6. object 
 // 3 ways access property by name 
 const student = {
-    name : "mehedi";
-    age : 25;
-    subject : [accounting, management, marketing ];
+    name : "mehedi",
+    age : 25,
+    subject : [accounting, management, marketing ],
     address : {
-        village: 'goshpara';
-        post : 'sherpur';
-        upozila : 'sherpur';
-        district : 'bogura';
+        village: 'goshpara',
+        post : 'sherpur',
+        upozila : 'sherpur',
+        district : 'bogura',
     }
 }
 
